@@ -4,7 +4,7 @@
 ---
 
 ## Repository Link  
-**GitHub:** GitHub: https://github.com/zemankhalil
+GitHub: https://github.com/zemankhalil
   
 
 ---
